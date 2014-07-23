@@ -1,4 +1,7 @@
-openlab
+Open Lab 
 =======
 
-Crea tu propio laboratorio de electrónica
+**Work in Progress**
+
+![Blogger-Material](http://i.imgur.com/bMUy8x3.jpg)
+
